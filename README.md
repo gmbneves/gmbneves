@@ -6,4 +6,4 @@ My research is focused on Labor Economics and Economics of Education.
 
 I’m looking to collaborate on any of my interests above.
 
-You can reach me by e-mail or twitter.
+You can reach me by e-mail or Twitter.
