@@ -10,5 +10,6 @@ Feel free to reach me.
 
 <div>
 <a href="https://github.com/gmbneves/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmbneves&count_private=true&show_icons=true&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmbneves&&show_icons=true&langs_count=8&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmbneves&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmbneves&&show_icons=true&langs_count=8&theme=dark" />
 </div>
