@@ -2,7 +2,7 @@
 
 Hi, I’m Gabriel!
 
-I'm a BSc in Management at PUC-Rio and Graduate Student in Economics at PPGE - UFPB. I’m interested in Economics, R, Python, SQL, Stata and Linux. I'm currently working on my master's dissertation. My research is focused on Labor Economics and Economics of Education. I’m looking to collaborate on any of my interests above.
+I'm a BSc in Management at PUC-Rio and a graduate student in economics at PPGE - UFPB. I’m interested in economics, R, Python, SQL, Stata and Linux. I'm currently working on my master's dissertation. My research is focused on labor economics and economics of education. I’m looking to collaborate on any of my interests above.
 
 Feel free to reach me.
 
